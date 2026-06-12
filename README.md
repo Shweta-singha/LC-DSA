@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shweta-singha/LC-DSA/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shweta-singha/LC-DSA/tree/master/0724-find-pivot-index) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shweta-singha/LC-DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
