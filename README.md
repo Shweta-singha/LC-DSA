@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Shweta-singha/LC-DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
