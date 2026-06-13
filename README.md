@@ -72,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Shweta-singha/LC-DSA/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Shweta-singha/LC-DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
