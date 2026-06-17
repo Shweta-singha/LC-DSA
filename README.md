@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0027-remove-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
