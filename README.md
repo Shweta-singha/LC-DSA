@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Shweta-singha/LC-DSA/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2643-row-with-maximum-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Simulation
 |  |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shweta-singha/LC-DSA/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Shweta-singha/LC-DSA/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2643-row-with-maximum-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
