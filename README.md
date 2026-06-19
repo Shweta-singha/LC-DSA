@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shweta-singha/LC-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shweta-singha/LC-DSA/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Shweta-singha/LC-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0566-reshape-the-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shweta-singha/LC-DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Shweta-singha/LC-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
