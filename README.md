@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shweta-singha/LC-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
