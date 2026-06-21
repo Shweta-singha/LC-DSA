@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shweta-singha/LC-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shweta-singha/LC-DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Shweta-singha/LC-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-singha/LC-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shweta-singha/LC-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
