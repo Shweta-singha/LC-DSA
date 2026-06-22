@@ -14,12 +14,14 @@ class Solution {
             freq[t.charAt(i) - 'a']--;
         }
 
-        for (int count : freq) {
+      for(int i = 0; i < freq.length; i++) {
 
-            if (count != 0) {
-                return false;
-            }
-        }
+    int count = freq[i];
+
+    if(count != 0) {
+        return false;
+    }
+}
 
         return true;
     }
