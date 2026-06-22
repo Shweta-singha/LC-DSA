@@ -1,13 +1,11 @@
 class Solution {
-    public int firstUniqChar(String s) {
-
+    public int firstUniqChar(String s) 
+    {
         int[] freq = new int[26];
-
         // Count frequency
         for(int i = 0; i < s.length(); i++) {
             freq[s.charAt(i) - 'a']++;
         }
-
         // Find first unique character
         for(int i = 0; i < s.length(); i++) {
 
@@ -15,7 +13,6 @@ class Solution {
                 return i;
             }
         }
-
         return -1;
     }
 }
