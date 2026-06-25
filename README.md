@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shweta-singha/LC-DSA/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1929-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shweta-singha/LC-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shweta-singha/LC-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shweta-singha/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shweta-singha/LC-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 ## String
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shweta-singha/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shweta-singha/LC-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shweta-singha/LC-DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Shweta-singha/LC-DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Shweta-singha/LC-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
