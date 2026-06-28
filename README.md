@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shweta-singha/LC-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shweta-singha/LC-DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Shweta-singha/LC-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-singha/LC-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shweta-singha/LC-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-singha/LC-DSA/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shweta-singha/LC-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
