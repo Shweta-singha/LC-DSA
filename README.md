@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shweta-singha/LC-DSA/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0566-reshape-the-matrix) |
+| [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shweta-singha/LC-DSA/tree/master/0225-implement-stack-using-queues) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
