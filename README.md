@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shweta-singha/LC-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
