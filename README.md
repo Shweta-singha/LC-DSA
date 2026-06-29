@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shweta-singha/LC-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shweta-singha/LC-DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Trie
 |  |
 | ------- |
