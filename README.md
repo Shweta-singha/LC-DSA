@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shweta-singha/LC-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shweta-singha/LC-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Shweta-singha/LC-DSA/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shweta-singha/LC-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shweta-singha/LC-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
