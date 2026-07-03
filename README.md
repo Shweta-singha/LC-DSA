@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
