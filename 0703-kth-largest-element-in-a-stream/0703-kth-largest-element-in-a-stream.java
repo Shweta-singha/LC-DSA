@@ -20,7 +20,16 @@ class KthLargest
     
     public int add(int val) 
     {
-        
+
+      // Optimization check:
+        // If we already have k elements and the new value isn't even bigger 
+        // than our current kth largest (the root), it has no chance of entering the top k.
+        if (minHeap.size() == k && val <= minHeap.peek()) 
+        {
+            return minHeap.peek(); // Just return the current root immediately!
+        }
+
+
       minHeap.offer(val);
 
         if (minHeap.size() > k) 
