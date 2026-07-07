@@ -20,22 +20,25 @@ class Solution {
     }
 
     public int height(TreeNode node) {
-
+        // 1. Base Case
         if (node == null)
             return 0;
 
+        // 2. Left Check & Immediate Short-Circuit
         int leftHeight = height(node.left);
-        int rightHeight = height(node.right);
-
-        // If left or right subtree is already unbalanced
-        if (leftHeight == -1 || rightHeight == -1)
+        if (leftHeight == -1) 
             return -1;
 
-        // Check current node balance
+        // 3. Right Check & Immediate Short-Circuit
+        int rightHeight = height(node.right);
+        if (rightHeight == -1) 
+            return -1;
+
+        // 4. Current Node Balance Check
         if (Math.abs(leftHeight - rightHeight) > 1)
             return -1;
 
-        // Return height of current node
+        // 5. All Good: Return the actual height
         return 1 + Math.max(leftHeight, rightHeight);
     }
 }
