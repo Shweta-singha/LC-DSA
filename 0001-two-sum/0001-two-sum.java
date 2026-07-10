@@ -1,37 +1,26 @@
 class Solution {
-    public int[] twoSum(int[] arr, int x) 
+    public int[] twoSum(int[] nums, int target) 
     {
+        Map<Integer, Integer>map = new HashMap<>();
 
-        int[] ans = new int[2];
-        int n = arr.length; 
-
-        //solution
-
-        for(int i=0; i<n; i++)
+        for(int i=0; i<nums.length;i++)
         {
-            boolean flag = false ; //optimisation
-
-            for(int j=i+1; j<n; j++)
+            int no = target - nums[i];
+            if(map.containsKey(no))
             {
-                if(arr[i] + arr[j] ==x)
-                {
-                    ans[0] = i;
-                    ans[1] = j; 
-                    flag = true;   //optimisation
-                    break; //optimisation
-                }
+                int index1 = map.get(no);
+                int index2 = i;
+
+                int[] res = {index1, index2};
+                return res;
+
             }
 
-            if(flag==true) break; //optimisation
+            map.put(nums[i],i);
 
         }
 
-        return ans;
-
-
-
-
-
+        return new int[]{};
         
     }
 }
