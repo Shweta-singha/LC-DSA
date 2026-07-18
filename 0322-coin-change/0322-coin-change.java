@@ -13,7 +13,9 @@ class Solution {
         for (int i = 1; i <= amount; i++) {
 
             // Try every coin
-            for (int coin : coins) {
+            for (int j = 0; j < coins.length; j++) {
+
+              int coin = coins[j];
 
                 if (coin <= i) {
                     dp[i] = Math.min(dp[i], dp[i - coin] + 1);
