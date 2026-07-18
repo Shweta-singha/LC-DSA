@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shweta-singha/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Shweta-singha/LC-DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shweta-singha/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-singha/LC-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Shweta-singha/LC-DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0509-fibonacci-number) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shweta-singha/LC-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Shweta-singha/LC-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shweta-singha/LC-DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Shweta-singha/LC-DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shweta-singha/LC-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shweta-singha/LC-DSA/tree/master/0994-rotting-oranges) |
