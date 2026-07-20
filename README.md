@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shweta-singha/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shweta-singha/LC-DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shweta-singha/LC-DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shweta-singha/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-singha/LC-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shweta-singha/LC-DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
