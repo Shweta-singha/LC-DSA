@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shweta-singha/LC-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shweta-singha/LC-DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Shweta-singha/LC-DSA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0867-transpose-matrix) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shweta-singha/LC-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-singha/LC-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Shweta-singha/LC-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Shweta-singha/LC-DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
