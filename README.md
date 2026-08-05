@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shweta-singha/LC-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-singha/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Shweta-singha/LC-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/0118-pascals-triangle) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shweta-singha/LC-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shweta-singha/LC-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shweta-singha/LC-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Shweta-singha/LC-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0079-word-search) |
 ## Union-Find
 |  |
