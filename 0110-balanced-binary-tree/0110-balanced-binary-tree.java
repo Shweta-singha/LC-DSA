@@ -14,31 +14,38 @@
  * }
  */
 class Solution {
-
-    public boolean isBalanced(TreeNode root) {
+    public boolean isBalanced(TreeNode root) 
+    {
         return height(root) != -1;
+        
+    }
+    private int height(TreeNode node){
+
+    if(node == null)
+    {
+        return 0;
     }
 
-    public int height(TreeNode node) {
-        // 1. Base Case
-        if (node == null)
-            return 0;
+    int leftHeight = height(node.left);
 
-        // 2. Left Check & Immediate Short-Circuit
-        int leftHeight = height(node.left);
-        if (leftHeight == -1) 
-            return -1;
+    if(leftHeight == -1)
+    {
+        return -1;
+    }
 
-        // 3. Right Check & Immediate Short-Circuit
-        int rightHeight = height(node.right);
-        if (rightHeight == -1) 
-            return -1;
+    int rightHeight = height(node.right);
 
-        // 4. Current Node Balance Check
-        if (Math.abs(leftHeight - rightHeight) > 1)
-            return -1;
+    if(rightHeight == -1)
+    {
+        return -1;
+    }
 
-        // 5. All Good: Return the actual height
-        return 1 + Math.max(leftHeight, rightHeight);
+    if (Math.abs(leftHeight - rightHeight)>1)
+    {
+        return -1;
+
+    }
+
+    return 1+Math.max(leftHeight, rightHeight);
     }
 }
