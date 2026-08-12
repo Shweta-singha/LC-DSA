@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Shweta-singha/LC-DSA/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shweta-singha/LC-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
+| [3024-type-of-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shweta-singha/LC-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -531,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shweta-singha/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
