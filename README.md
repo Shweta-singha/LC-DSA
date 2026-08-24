@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shweta-singha/LC-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shweta-singha/LC-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Shweta-singha/LC-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shweta-singha/LC-DSA/tree/master/0066-plus-one) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shweta-singha/LC-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shweta-singha/LC-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shweta-singha/LC-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shweta-singha/LC-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shweta-singha/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/0118-pascals-triangle) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shweta-singha/LC-DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Shweta-singha/LC-DSA/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
