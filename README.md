@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shweta-singha/LC-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shweta-singha/LC-DSA/tree/master/0566-reshape-the-matrix) |
+| [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shweta-singha/LC-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shweta-singha/LC-DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shweta-singha/LC-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shweta-singha/LC-DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shweta-singha/LC-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Shweta-singha/LC-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Shweta-singha/LC-DSA/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
