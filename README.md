@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shweta-singha/LC-DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shweta-singha/LC-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-singha/LC-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-singha/LC-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
 | ------- |
