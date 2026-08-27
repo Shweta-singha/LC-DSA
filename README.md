@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shweta-singha/LC-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shweta-singha/LC-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Shweta-singha/LC-DSA/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shweta-singha/LC-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-singha/LC-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shweta-singha/LC-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Shweta-singha/LC-DSA/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Shweta-singha/LC-DSA/tree/master/1122-relative-sort-array) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Shweta-singha/LC-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shweta-singha/LC-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -426,12 +430,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shweta-singha/LC-DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Shweta-singha/LC-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Shweta-singha/LC-DSA/tree/master/0611-valid-triangle-number) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shweta-singha/LC-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shweta-singha/LC-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Shweta-singha/LC-DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Shweta-singha/LC-DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Shweta-singha/LC-DSA/tree/master/1094-car-pooling) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
