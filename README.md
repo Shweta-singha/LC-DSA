@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Shweta-singha/LC-DSA/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Shweta-singha/LC-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shweta-singha/LC-DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shweta-singha/LC-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Shweta-singha/LC-DSA/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shweta-singha/LC-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shweta-singha/LC-DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shweta-singha/LC-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shweta-singha/LC-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shweta-singha/LC-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shweta-singha/LC-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shweta-singha/LC-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
