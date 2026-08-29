@@ -12,15 +12,14 @@ class Solution {
 
                 char ch = word.charAt(j);
 
-                // If consonant appears, this substring can no longer be valid
+                
                 if (!isVowel(ch)) {
                     break;
                 }
 
-                // Add vowel to the set
+    
                 vowels.add(ch);
 
-                // If all 5 vowels are present
                 if (vowels.size() == 5) {
                     count++;
                 }
