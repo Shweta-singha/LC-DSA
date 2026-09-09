@@ -3,7 +3,7 @@ class Solution:
 
         words=s.split() #words = ["Hello", "World"]
 
-        length=len(words) #2 
+        #length=len(words) #2 
 
         last_word=len(words[-1]) #World
 
